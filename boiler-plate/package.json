@@ -1,0 +1,23 @@
+{
+  "name": "boiler-plate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "TaeKwon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohtaekwon/Node-React-Basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohtaekwon/Node-React-Basic/issues"
+  },
+  "homepage": "https://github.com/ohtaekwon/Node-React-Basic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
